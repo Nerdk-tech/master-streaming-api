@@ -1,7 +1,7 @@
 {
   "name": "master-streaming-api",
-  "version": "1.0.0",
-  "description": "Unified Scraper Backend API for Movies, TV Shows, Anime, Sports, and WWE",
+  "version": "1.0.1",
+  "description": "Production Streaming API Matrix Engine Backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
